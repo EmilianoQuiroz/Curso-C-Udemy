@@ -9,5 +9,7 @@ int main()
     double numeroDecimal = 3.4;
     char letra = 'A';
     char frase[] = "Hola";
+
+    printf("Numero %.2f", numeroFlotante);
     return 0;
 }
