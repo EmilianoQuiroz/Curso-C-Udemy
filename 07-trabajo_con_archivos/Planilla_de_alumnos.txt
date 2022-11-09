@@ -1,0 +1,4 @@
+Juan, 6.7
+Pepe, 5.7
+Luis, 8.9
+Jhon, 7.5
